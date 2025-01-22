@@ -1,0 +1,6 @@
+pillow
+openai
+streamlit
+msrest
+python-dotenv
+azure-cognitiveservices-vision-computervision
